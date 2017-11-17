@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aggie Blue Bikes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello">Hello</string>
+    <string name="lets_ride">Lets Ride!</string>
+    <string name="todo">TODO</string>
+</resources>
