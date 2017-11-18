@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="minZoom">14</integer>
+    <integer name="maxZoom">18</integer>
+    <integer name="zoomTo">15</integer>
+    <string name="loganUT">41.7452,-111.8097</string>
+    <string name="bounds">41.738560,-111.816939,41.757697,-111.798396</string>
+    <string-array name="locations">
+        <item>41.741771,-111.809145,Library South,Parking &amp; Tools</item>
+        <item>41.742409,-111.807887,Engineering Quad,Covered Parking &amp; Tools</item>
+        <item>41.744127,-111.813248,Aggie Blue Bikes,Complete Services</item>
+        <item>41.749978,-111.803118,Student Living Center,Covered Parking &amp; Tools</item>
+        <item>41.741154,-111.813869,Old Main North,Parking</item>
+        <item>41.740749,-111.813543,Old Main East,Parking</item>
+        <item>41.740194,-111.812971,Ray B. West,Parking</item>
+        <item>41.740193,-111.812423,Family Life West,Parking</item>
+        <item>41.740189,-111.811757,Family Life East,Parking</item>
+        <item>41.741054,-111.810478,Ag Science,Parking</item>
+        <item>41.741402,-111.809692,Huntsman Hall,Parking</item>
+        <item>41.742596,-111.809174,Library North,Parking</item>
+        <item>41.741952,-111.807297,Engineering South,Parking</item>
+        <item>41.742296,-111.807368,Engineering North,Parking</item>
+        <item>41.742483,-111.806157,Fine Arts South,Parking</item>
+        <item>41.743106,-111.812390,Student Center North,Parking</item>
+        <item>41.742658,-111.812421,Student Center South,Parking</item>
+        <item>41.743220,-111.814102,Student Center West,Covered Parking</item>
+        <item>41.742314,-111.813794,Eccles Science,Covered Parking</item>
+        <item>41.742400,-111.813504,TSC Patio,Parking</item>
+    </string-array>
+</resources>

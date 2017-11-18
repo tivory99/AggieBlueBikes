@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aggie Blue Bikes</string>
+    <string name="title_activity_main"></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_namelogo">Some logos</string>
+    <string name="feed_menu_button">Aggie Blue Bikes Feed</string>
+    <string name="help_menu_button">Help/About</string>
+    <string name="checkout_text">When did your checkout start?</string>
+    <string name="checkout_confirmation">Thanks for checking out a bike!</string>
+    <string name="checkout_save">Save checkout!</string>
+    <string name="checkout_menu_text">Checkouts</string>
+    <string name="title_activity_bike_resource_map">Bike stuff on campus</string>
+    <string name="bikeResource_menu_text">Bike Resource Map</string>
+</resources>
