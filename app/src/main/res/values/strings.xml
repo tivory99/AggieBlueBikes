@@ -15,4 +15,11 @@
     <string name="checkout_menu_text">Checkouts</string>
     <string name="title_activity_bike_resource_map">Bike stuff on campus</string>
     <string name="bikeResource_menu_text">Bike Resource Map</string>
+
+
+    <string name="todo">TODO</string>
+    <string name="due_by">Due By:</string>
+    <string name="timer">Timer:</string>
+    <string name="button">Button</string>
+
 </resources>

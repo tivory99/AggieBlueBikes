@@ -13,7 +13,7 @@
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/dueDateTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Aggie Blue Bikes"
