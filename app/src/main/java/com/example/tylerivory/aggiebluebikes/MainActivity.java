@@ -242,7 +242,7 @@ public class MainActivity extends AppCompatActivity
                 String[] str = TimeConstants.formatIntTime( diffMilli);
 
                 //seconds should go away after demo?
-                tv3.setText(str[0]+" Days, "+str[1]+" Hours, "+str[2]+" Minutes " + str[3]);
+                tv3.setText(str[0]+" Days, "+str[1]+" Hours, "+str[2]+" Min, " + str[3] + "s");
 
             }
 

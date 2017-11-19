@@ -48,7 +48,7 @@ public class ABBCheckoutActivity extends AppCompatActivity {
                 .putExtra(CalendarContract.Events.EVENT_LOCATION, "Aggie Blue Bikes Shop")
                 .putExtra(CalendarContract.Events.AVAILABILITY, CalendarContract.Events.AVAILABILITY_FREE)
                 .putExtra(Intent.EXTRA_EMAIL, "aggiebluebikesagreements@gmail.com");
-        Date duedate = new Date(beginTime.getTimeInMillis());
+        Date duedate = new Date(beginTime.getTimeInMillis() + (3 * TimeConstants.THIRY_DAYS));
         writeToFile(duedate.getTime()+"", getBaseContext());
 
 
