@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity
 
 
         String filecontent = readFromFile(getBaseContext());
-
         prepareTimers(filecontent);
         preparePhoneClick();
         int timeTillDue = (int) (TimeConstants.ONE_DAY*14); // place holder
@@ -228,6 +227,7 @@ public class MainActivity extends AppCompatActivity
                 TextView tv1 = (TextView) findViewById(R.id.textClock);
                 String filecontent = readFromFile(getBaseContext());
                 Date dueDate = new Date(Long.parseLong(filecontent)); //duedate
+
 
                 Date curDate = new Date();
                 long diffMilli = (dueDate.getTime()-curDate.getTime())%(TimeConstants.ONE_DAY*14);
